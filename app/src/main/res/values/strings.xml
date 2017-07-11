@@ -4,7 +4,7 @@
     <string name="string_matricula">Matrícula</string>
     <string name="string_contrasena">Contraseña</string>
     <string name="boton_login">Login</string>
-    <string name="noAccount">No tienes cuenta?, </string>
+    <string name="noAccount">No tienes cuenta?   </string>
     <string name="crearCuenta">Crea una aquí</string>
     <string name="string_email">correo</string>
     <string name="string_nombre">Nombre</string>
