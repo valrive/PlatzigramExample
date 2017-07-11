@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_matricula">Enrollment</string>
+    <string name="string_contrasena">Password</string>
+    <string name="boton_login">Login</string>
+    <string name="noAccount">No account?</string>
+    <string name="crearCuenta">Create one here</string>
+    <string name="string_email">Email</string>
+    <string name="string_nombre">Name</string>
+    <string name="string_usuario">Username</string>
+    <string name="string_password">Password</string>
+    <string name="string_confirmPassword">Confirm password</string>
+    <string name="boton_unete">Join</string>
+    <string name="toolbar_tittle_createAccount">Create Account</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timeCard">4 days</string>
+    <string name="likeNumberCard">10 Like</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Profile</string>
+    <string name="seconWord_Detail">Me Gusta</string>
+</resources>

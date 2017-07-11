@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Platzigram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="string_matricula">Matrícula</string>
+    <string name="string_contrasena">Contraseña</string>
+    <string name="boton_login">Login</string>
+    <string name="noAccount">No tienes cuenta?, </string>
+    <string name="crearCuenta">Crea una aquí</string>
+    <string name="string_email">correo</string>
+    <string name="string_nombre">Nombre</string>
+    <string name="string_usuario">Usuario</string>
+    <string name="string_password">Contraseña</string>
+    <string name="string_confirmPassword">Confirmar contraseña</string>
+    <string name="boton_unete">Únete</string>
+    <string name="toolbar_tittle_createAccount">Crear Cuenta</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timeCard">4 días</string>
+    <string name="likeNumberCard">10 Me Gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Perfil</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="seconWord_Detail">Me Gusta</string>
+    <string name="titleimageDetail">\"Todo copas en la playa\"</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="transitionName_Pictura">transitionnamepicture</string>
+</resources>
