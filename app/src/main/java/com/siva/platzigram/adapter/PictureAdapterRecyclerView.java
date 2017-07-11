@@ -20,7 +20,7 @@ import com.squareup.picasso.Picasso;
 import java.util.ArrayList;
 
 /**
- * Created by v.gaxiola on 06/07/2017.
+ * Created by valentín Rivera on 06/07/2017.
  */
 
 public class PictureAdapterRecyclerView extends RecyclerView.Adapter<PictureAdapterRecyclerView.PictureViewHolder>{
